@@ -7,6 +7,8 @@ def subtrai(a,b):
 def soma(a,b):
     print(f"{a} mais {b} é igual a {a+b}.")
 
+a = 123    
+    
 divide(10,2)
 soma(10,2)
 subtrai(10,2)
